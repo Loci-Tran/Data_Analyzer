@@ -1,0 +1,13 @@
+Well,Fluor,Target,Content,Replicate,Sample,Biological Set Name,Well Note,Cq
+A01,Cal Red 610,,Neg Ctrl,,,,,18.16221293
+A02,Cal Red 610,,Unkn,,,,,28
+A03,Cal Red 610,,Unkn,,,,,17.91812627
+A04,Cal Red 610,,Unkn,,,,,17.91812627
+A01,FAM,,Neg Ctrl,,,,,NaN
+A02,FAM,,Unkn,,,,,NaN
+A03,FAM,,Unkn,,,,,25
+A04,FAM,,Unkn,,,,,42
+A01,VIC,,Neg Ctrl,,,,,NaN
+A02,VIC,,Unkn,,,,,NaN
+A03,VIC,,Unkn,,,,,24
+A04,VIC,,Unkn,,,,,41
